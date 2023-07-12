@@ -1,7 +1,7 @@
 - Hi, I’m @SingletLinkage
 - I’m interested in STEM
-- I’m currently learning Python
-- How to reach me- Discord: QC#2293
+- I’m currently learning Python, C++
+- How to reach me- Discord: _qchaos
 
 <!---
 SingletLinkage/SingletLinkage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
